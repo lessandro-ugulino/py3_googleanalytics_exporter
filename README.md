@@ -1,4 +1,4 @@
-Daily Google Analytics v4 to Prometheus
+# Daily Google Analytics v4 to Prometheus
 
 Get Daily Google Analytics v4 metrics, and presents them to prometheus for scraping via Pushgateway.
 
