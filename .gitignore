@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ga_creds.json
